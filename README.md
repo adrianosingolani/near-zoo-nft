@@ -1,5 +1,10 @@
 # near-zoo-nft
 
+Challenge #6 of NEAR SPRING POP-UP HACKATHON https://nearspring.splashthat.com/
+
+Live at https://adrianosingolani.github.io/near-zoo-nft
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
