@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/near-zoo-nft/static/css/main.bddad35b.chunk.css",
-    "main.js": "/near-zoo-nft/static/js/main.c6f81797.chunk.js",
-    "main.js.map": "/near-zoo-nft/static/js/main.c6f81797.chunk.js.map",
+    "main.js": "/near-zoo-nft/static/js/main.ebbaf843.chunk.js",
+    "main.js.map": "/near-zoo-nft/static/js/main.ebbaf843.chunk.js.map",
     "runtime-main.js": "/near-zoo-nft/static/js/runtime-main.2ae9cebd.js",
     "runtime-main.js.map": "/near-zoo-nft/static/js/runtime-main.2ae9cebd.js.map",
-    "static/js/2.207a83a8.chunk.js": "/near-zoo-nft/static/js/2.207a83a8.chunk.js",
-    "static/js/2.207a83a8.chunk.js.map": "/near-zoo-nft/static/js/2.207a83a8.chunk.js.map",
+    "static/js/2.f1c13b7a.chunk.js": "/near-zoo-nft/static/js/2.f1c13b7a.chunk.js",
+    "static/js/2.f1c13b7a.chunk.js.map": "/near-zoo-nft/static/js/2.f1c13b7a.chunk.js.map",
     "static/js/3.94344c4d.chunk.js": "/near-zoo-nft/static/js/3.94344c4d.chunk.js",
     "static/js/3.94344c4d.chunk.js.map": "/near-zoo-nft/static/js/3.94344c4d.chunk.js.map",
     "index.html": "/near-zoo-nft/index.html",
     "static/css/main.bddad35b.chunk.css.map": "/near-zoo-nft/static/css/main.bddad35b.chunk.css.map",
-    "static/js/2.207a83a8.chunk.js.LICENSE.txt": "/near-zoo-nft/static/js/2.207a83a8.chunk.js.LICENSE.txt"
+    "static/js/2.f1c13b7a.chunk.js.LICENSE.txt": "/near-zoo-nft/static/js/2.f1c13b7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2ae9cebd.js",
-    "static/js/2.207a83a8.chunk.js",
+    "static/js/2.f1c13b7a.chunk.js",
     "static/css/main.bddad35b.chunk.css",
-    "static/js/main.c6f81797.chunk.js"
+    "static/js/main.ebbaf843.chunk.js"
   ]
 }
