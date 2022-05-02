@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/near-zoo-nft/static/css/main.e6c13ad2.css",
+    "main.js": "/near-zoo-nft/static/js/main.e11bc3c4.js",
+    "static/js/787.b6d6a98b.chunk.js": "/near-zoo-nft/static/js/787.b6d6a98b.chunk.js",
+    "index.html": "/near-zoo-nft/index.html",
+    "main.e6c13ad2.css.map": "/near-zoo-nft/static/css/main.e6c13ad2.css.map",
+    "main.e11bc3c4.js.map": "/near-zoo-nft/static/js/main.e11bc3c4.js.map",
+    "787.b6d6a98b.chunk.js.map": "/near-zoo-nft/static/js/787.b6d6a98b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e11bc3c4.js"
+  ]
+}
