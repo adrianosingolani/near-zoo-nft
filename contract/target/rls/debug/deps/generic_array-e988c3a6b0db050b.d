@@ -1,0 +1,11 @@
+/Users/adriano/Development/near-nft/contract/target/rls/debug/deps/generic_array-e988c3a6b0db050b.rmeta: /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/Users/adriano/Development/near-nft/contract/target/rls/debug/deps/generic_array-e988c3a6b0db050b.d: /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs:
+/Users/adriano/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs:
